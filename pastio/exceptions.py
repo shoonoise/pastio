@@ -1,0 +1,2 @@
+class NoSettingsFile(Exception):
+    pass
